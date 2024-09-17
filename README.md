@@ -1,4 +1,4 @@
-- 👋 Olá eu sou o João Pedro!
+- 👋 Olá, eu sou o João Pedro!
 - 👀 Tenho interesse em tudo que está relacionado à tecnologia, sempre gostei de aprender;
 - 🌱 Atualmente estou me desenvolvendo em análise de dados, Power BI.
 
